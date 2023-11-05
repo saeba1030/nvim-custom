@@ -19,7 +19,7 @@ local plugins = {
             ensure_installed = {
                 "clangd",
                 "clang-format",
-				"codelldb"
+				"codelldb",
                 "cmake-language-server"
             }
         }
